@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adem Baccara 
-- 👀 I’m interested in web developement
+- 👀 I’m interested in web developement / Programming
 - 🌱 I’m currently learning HTML/CSS/JS
 
 <!---
