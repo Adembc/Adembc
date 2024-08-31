@@ -4,10 +4,10 @@ I'm a Backend Engineer with a passion for Cloud-Native Applications, expertise i
 ## 💡 Interests
 
 I'm always eager to learn more about:
-- OS
-- Networking
-- Databases
-- Cloud tools
+- 🖥️ OS
+- 🌐 Networking
+- 🗄️ Databases
+- ☁️ Cloud Technologies
 
 ## 📫 Get in Touch
 
